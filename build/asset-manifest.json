@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mingjiangtest/static/css/main.313f2a33.css",
+    "main.js": "/mingjiangtest/static/js/main.447b95f9.js",
+    "static/js/967.ef17a1f4.chunk.js": "/mingjiangtest/static/js/967.ef17a1f4.chunk.js",
+    "static/js/451.7be5a04e.chunk.js": "/mingjiangtest/static/js/451.7be5a04e.chunk.js",
+    "index.html": "/mingjiangtest/index.html",
+    "main.313f2a33.css.map": "/mingjiangtest/static/css/main.313f2a33.css.map",
+    "main.447b95f9.js.map": "/mingjiangtest/static/js/main.447b95f9.js.map",
+    "967.ef17a1f4.chunk.js.map": "/mingjiangtest/static/js/967.ef17a1f4.chunk.js.map",
+    "451.7be5a04e.chunk.js.map": "/mingjiangtest/static/js/451.7be5a04e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.313f2a33.css",
+    "static/js/main.447b95f9.js"
+  ]
+}
